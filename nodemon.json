@@ -1,0 +1,6 @@
+{
+    "restartable": "rs",
+    "ignore": ["node_modules/**", "*.log"],
+    "delay": "2000ms"
+  }
+  
