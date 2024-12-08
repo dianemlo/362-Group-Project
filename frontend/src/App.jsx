@@ -1,3 +1,4 @@
+
 import './App.css'
 import { Navigate, Route, Routes } from 'react-router-dom'
 import Home from "./pages/home/Home"
@@ -51,3 +52,4 @@ function App() {
 }
 
 export default App
+
