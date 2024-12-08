@@ -1,6 +1,6 @@
 import { createContext, useState, useEffect, useContext } from "react";
 import { useAuthContext } from "./AuthContext";
-import io from "socket.io-client"
+import io from "socket.io-client";
 
 const SocketContext = createContext();
 
